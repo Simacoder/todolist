@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": "1362",
+      "fullName": "Simanga Comfort Mchunu",
+      "email": "simacoder@hotmail.com",
+      "password": "sima125",
+      "mobile": ""
+    },
+    {
+      "id": "bf3d",
+      "fullName": "lutho Sikwana",
+      "mobile": "0761913434",
+      "email": "lutho@gmail.com",
+      "password": "lutho123"
+    },
+    {
+      "id": "3e87",
+      "fullName": "Nthabiseng Makhavhu",
+      "mobile": "0761913434",
+      "email": "nthabi@gmail.com",
+      "password": "nthabi123"
+    },
+    {
+      "id": "4700",
+      "fullName": "Manash Dash",
+      "mobile": "0739362311",
+      "email": "manash@gmail.com",
+      "password": "nama1234"
+    },
+    {
+      "id": "b089",
+      "fullName": "Zama Mchunu",
+      "mobile": "0739363212",
+      "email": "zama@hotmail.com",
+      "password": "zama124"
+    },
+    {
+      "id": "4584",
+      "fullName": "Zanele Mchunu",
+      "mobile": "0786009885",
+      "email": "zanele@gmail.com",
+      "password": "zanele123"
+    }
+  ],
+  "tasks": []
+}

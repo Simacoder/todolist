@@ -1,0 +1,6 @@
+/* src/app/todo/todo.component.css */
+.completed {
+    text-decoration: line-through;
+    color: 	#f9feff;
+  }
+  
