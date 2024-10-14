@@ -41,6 +41,13 @@
       "mobile": "0786009885",
       "email": "zanele@gmail.com",
       "password": "zanele123"
+    },
+    {
+      "id": "7920",
+      "fullName": "Zola Mchunu",
+      "mobile": "0721213434",
+      "email": "zola@gmail.com",
+      "password": "zola123"
     }
   ],
   "tasks": []
